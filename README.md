@@ -1,6 +1,7 @@
 Currently a J1 studying at ACJC
 
-Malware & DSA enjoyed
+Malware & DSA enjoyer!
+
 Some languages I've used include x86 assembly, C++, Python, C#, C, Java, Lua, PHP, JavaScript and Bash. I plan on learning Rust in the future.
 
 
